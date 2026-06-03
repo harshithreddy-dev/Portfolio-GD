@@ -5,13 +5,13 @@ import { SectionHeading } from "./section-heading";
 import { fadeUp, stagger } from "./motion";
 
 const stats = [
-  ["4+", "Years designing"],
-  ["120+", "Projects completed"],
-  ["35+", "Brand systems"],
-  ["48h", "Fastest launch kit"]
+  ["3+", "Years designing"],
+  ["40+", "Projects completed"],
+  ["15+", "Event creatives"],
+  ["25+", "Logo concepts"]
 ];
 
-const timeline = ["Started with posters", "Built event identities", "Expanded into brand systems", "Now designing memorable visual worlds"];
+const timeline = ["Started with posters", "Created college event designs", "Designed logos and invitations", "Now building a stronger creative portfolio"];
 const skills = [
   ["Brand Identity", 94],
   ["Typography", 89],
@@ -26,7 +26,7 @@ export function About() {
         <SectionHeading
           eyebrow="About"
           title="Visuals with taste, speed, and scroll-stopping energy."
-          copy="I build design systems that feel alive: sharp logos, expressive event graphics, polished invites, and marketing assets that make people pause before they keep scrolling."
+          copy="I create sharp logos, expressive event graphics, polished invites, posters, and marketing creatives that feel energetic, clear, and memorable."
         />
         <motion.div variants={stagger} initial="hidden" whileInView="visible" viewport={{ once: true, margin: "-120px" }} className="grid gap-5 lg:grid-cols-[1.08fr_.92fr]">
           <motion.div variants={fadeUp} className="glass rounded-[28px] p-6 sm:p-8">

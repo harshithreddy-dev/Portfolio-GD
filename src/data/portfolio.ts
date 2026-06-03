@@ -96,6 +96,15 @@ export const portfolioProjects: PortfolioProject[] = [
     palette: ["#200000", "#402000", "#604020", "#404020"]
   },
   {
+    id: "advitiya-drop-banner",
+    title: "Advitiya Drop Banner",
+    category: "Event Banners",
+    year: "2026",
+    brief: "A bold drop banner designed with strong event presence, rich colors, and print-ready impact.",
+    image: "/projects/Event%20Banners/ADVITIYA-DROP%20BANNER.png",
+    palette: ["#C00000", "#A00000", "#C0A000", "#800000", "#C08000"]
+  },
+  {
     id: "advitiyan-invitation",
     title: "Advitiyan Invitation",
     category: "Invitations",
