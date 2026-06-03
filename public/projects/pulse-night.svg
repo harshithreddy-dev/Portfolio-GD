@@ -1,0 +1,15 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pulse" x1="0" x2="1"><stop stop-color="#1e7bff"/><stop offset=".55" stop-color="#ff2bd6"/><stop offset="1" stop-color="#dcff2f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="1400" fill="#050505"/>
+  <g opacity=".34" stroke="url(#pulse)" stroke-width="3">
+    <path d="M0 220h1200M0 320h1200M0 420h1200M0 520h1200M0 620h1200M0 720h1200M0 820h1200M0 920h1200M0 1020h1200"/>
+  </g>
+  <path d="M120 1040 600 130 1080 1040z" fill="url(#pulse)" opacity=".24"/>
+  <text x="95" y="420" fill="#fff" font-family="Arial Black, Arial" font-size="180" letter-spacing="-8">PULSE</text>
+  <text x="105" y="570" fill="#21f7ff" font-family="Arial Black, Arial" font-size="92" letter-spacing="18">NIGHT</text>
+  <text x="105" y="690" fill="#ff2bd6" font-family="Arial Black, Arial" font-size="42" letter-spacing="10">LIVE MUSIC / DESIGN / ENERGY</text>
+  <circle cx="965" cy="250" r="112" fill="#dcff2f"/>
+  <text x="905" y="268" fill="#050505" font-family="Arial Black, Arial" font-size="32">2026</text>
+</svg>

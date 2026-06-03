@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="d" x1="0" x2="1"><stop stop-color="#ff2bd6"/><stop offset=".5" stop-color="#dcff2f"/><stop offset="1" stop-color="#1e7bff"/></linearGradient></defs>
+  <rect width="1200" height="900" fill="#050505"/>
+  <rect x="90" y="100" width="280" height="700" rx="30" fill="url(#d)"/>
+  <rect x="430" y="100" width="280" height="700" rx="30" fill="#fff" opacity=".11"/>
+  <rect x="770" y="100" width="340" height="700" rx="30" fill="#1e7bff"/>
+  <text x="124" y="240" fill="#050505" font-family="Arial Black, Arial" font-size="56">DROP</text>
+  <text x="470" y="450" fill="#fff" font-family="Arial Black, Arial" font-size="62" transform="rotate(90 470 450)">BANNER</text>
+  <text x="818" y="650" fill="#fff" font-family="Arial Black, Arial" font-size="76">SYSTEM</text>
+</svg>

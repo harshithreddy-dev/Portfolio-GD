@@ -1,0 +1,13 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="soft" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ff2bd6"/><stop offset=".5" stop-color="#21f7ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="#050505"/>
+  <rect x="120" y="130" width="960" height="1240" rx="56" fill="none" stroke="url(#soft)" stroke-width="7"/>
+  <rect x="190" y="210" width="820" height="1080" rx="42" fill="#ffffff" opacity=".07"/>
+  <path d="M330 700c90-190 250-190 340 0 58-124 184-162 266-54-62 188-234 310-436 310S168 834 330 700z" fill="url(#soft)" opacity=".34"/>
+  <text x="245" y="420" fill="#fff" font-family="Georgia, serif" font-size="92">Anaya</text>
+  <text x="500" y="525" fill="#21f7ff" font-family="Arial Black, Arial" font-size="54">&amp;</text>
+  <text x="555" y="630" fill="#fff" font-family="Georgia, serif" font-size="92">Vihaan</text>
+  <text x="288" y="1040" fill="#ff2bd6" font-family="Arial Black, Arial" font-size="36" letter-spacing="8">CHROMATIC WEDDING SUITE</text>
+</svg>

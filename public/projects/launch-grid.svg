@@ -1,0 +1,17 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="#050505"/>
+  <g transform="translate(100 110)">
+    <rect width="300" height="300" rx="28" fill="#1e7bff"/>
+    <rect x="350" width="300" height="300" rx="28" fill="#21f7ff"/>
+    <rect x="700" width="300" height="300" rx="28" fill="#ff2bd6"/>
+    <rect y="350" width="300" height="300" rx="28" fill="#ffffff" opacity=".12"/>
+    <rect x="350" y="350" width="300" height="300" rx="28" fill="#9b5cff"/>
+    <rect x="700" y="350" width="300" height="300" rx="28" fill="#dcff2f"/>
+    <rect y="700" width="300" height="300" rx="28" fill="#ff2bd6"/>
+    <rect x="350" y="700" width="300" height="300" rx="28" fill="#ffffff" opacity=".1"/>
+    <rect x="700" y="700" width="300" height="300" rx="28" fill="#1e7bff"/>
+  </g>
+  <text x="157" y="286" fill="#fff" font-family="Arial Black, Arial" font-size="54">DROP</text>
+  <text x="447" y="636" fill="#fff" font-family="Arial Black, Arial" font-size="54">REEL</text>
+  <text x="806" y="986" fill="#fff" font-family="Arial Black, Arial" font-size="54">POST</text>
+</svg>

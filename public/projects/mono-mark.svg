@@ -1,0 +1,11 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#050505"/>
+  <rect x="140" y="140" width="280" height="280" rx="34" fill="#fff"/>
+  <rect x="460" y="140" width="280" height="280" rx="34" fill="#21f7ff"/>
+  <rect x="780" y="140" width="280" height="280" rx="34" fill="#9b5cff"/>
+  <path d="M210 350V210h44l60 76 60-76h44v140h-48v-72l-56 70-56-70v72z" fill="#050505"/>
+  <path d="M520 350V210h46l74 86v-86h48v140h-46l-74-86v86z" fill="#050505"/>
+  <path d="M840 350V210h70c56 0 94 28 94 70s-38 70-94 70zm50-44h18c30 0 48-10 48-26s-18-26-48-26h-18z" fill="#fff"/>
+  <text x="140" y="650" fill="#fff" font-family="Arial Black, Arial" font-size="112">MONO MARK LAB</text>
+  <text x="145" y="735" fill="#21f7ff" font-family="Arial Black, Arial" font-size="34" letter-spacing="10">LOGO EXPLORATION</text>
+</svg>
